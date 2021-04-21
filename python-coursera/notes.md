@@ -1,6 +1,6 @@
 # Notes for coursera python course
 # Using python to access web data
-## Week 2 - Regular Expressions
+## Week 3 - Regular Expressions
 Regular expressions cheat sheet
 
 | Expression 	| Description 	|
@@ -22,7 +22,7 @@ Regular expressions cheat sheet
 
 More info can be found [here](https://docs.python.org/3/howto/regex.html)
 
-## Week 3 - Networked Technology
+## Week 4 - Networked Technology
 * An internet socket or network socket is an endpoint of a bidirectional inter-process communication flow across an Internet Protocol-based computer network, such as the Internet
 * A port is defined as an application-specific or process-specific software communications endpoint
 
