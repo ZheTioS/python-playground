@@ -53,4 +53,3 @@ In the above snippet we use the built in support for TCP sockets and can connect
 Hypertext Transfer Protocol (HTTP) is the dominant Application Layer Protocol on the Internet. It was invented for the Web - to retrieve HTML, Images, etc.
 
 A Protocol is defined as a set of rules that all parties follow so we can predict each other's behaviour and not bump into each other.
-
