@@ -39,6 +39,8 @@ Other common TCP ports include
 - DNS (53) - Domain Name
 - FTP (21) - File Transfer
 
+[Link](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml) to the Service Name and Transport Protocol Port Number Registry.
+
 Python has requires 3 lines of code to use these ports
 
 ```python
