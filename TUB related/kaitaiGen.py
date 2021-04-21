@@ -1,5 +1,3 @@
-# Copyright (C) 2020 Udit Kumar Sahoo
-
 # Author(s): Udit Kumar Sahoo <udit.k.sahoo@campus.tu-berlin.de>, Vinayak Nair <v.nair@campus.tu-berlin.de>
 # Keywords: KaiTai Generator, CSV Input
 # Version: 2.0
