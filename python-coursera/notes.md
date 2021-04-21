@@ -22,4 +22,4 @@ Regular expressions cheat sheet
 | ( 	| Indicates where string extraction is to start 	|
 | ) 	| Indicates where string extraction is to end 	|
 
-More info can be found [here]{https://docs.python.org/3/howto/regex.html}
+More info can be found [here](https://docs.python.org/3/howto/regex.html)
